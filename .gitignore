@@ -1,0 +1,9 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivo do banco de dados SQLite
+adotatech.db
