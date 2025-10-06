@@ -1,8 +1,10 @@
 # Projeto AdotaTech 
 
-Este é um projeto de backend para um sistema de adoção de animais, desenvolvido com FastAPI e Python.
 
-O objetivo principal deste repositório é demonstrar a manipulação de um banco de dados **SQLite** utilizando **SQL puro**
+O AdotaTech é uma plataforma web dinâmica desenvolvida para centralizar e otimizar a gestão de abrigos de animais, ONGs e protetores independentes. A aplicação tem como objetivo principal combater o problema do abandono e maus-tratos de animais, facilitando a conexão entre a comunidade e os animais que aguardam por um lar. Visão Geral do Projeto Muitas cidades brasileiras enfrentam um grande desafio com o descontrole populacional de animais de rua. Os abrigos, embora essenciais, frequentemente carecem de ferramentas digitais eficientes para gerenciar doações, atrair voluntários e dar visibilidade aos animais disponíveis para adoção. O AdotaTech surge como a solução para este problema, oferecendo uma interface intuitiva e um sistema de gerenciamento completo.
+Desenvolvido com Python, FastAPI, HTML, JAVASCRIPT, CSS, SQLite
+
+- em construção 
 
 ## Como Executar
 
